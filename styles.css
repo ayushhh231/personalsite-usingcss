@@ -1,0 +1,54 @@
+body {
+    background-color: #F4ABC4;
+    text-align: center;
+    font-family: cursive;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 70px;
+    left: 360px;
+}
+
+.web {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    padding-top: 200px;
+    position: absolute;
+    left: 730px;
+    bottom: 350px;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin-top: 50px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+h3 {
+    text-align: 0px 0px 0px 100px;
+}
+
+.skills-row {
+    width: 50%;
+    line-height: 2;
+    height: 10px;
+}
+
+.images {
+    position: relative;
+    left: 0px;
+    height: 100px;
+    width: 100px;
+}
